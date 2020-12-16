@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/ic_reservoireone"
+        android:duration="300"
+        />
+
+    <item
+        android:drawable="@drawable/ic_reservoiretow"
+        android:duration="300"/>
+
+    <item
+        android:drawable="@drawable/ic_reservoirethree"
+        android:duration="300"/>
+
+    <item
+        android:drawable="@drawable/ic_reservoirefour"
+        android:duration="300"/>
+
+    <item
+        android:drawable="@drawable/ic_reservoirefive"
+        android:duration="300"/>
+
+
+</animation-list>
